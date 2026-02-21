@@ -27,7 +27,6 @@ A Loja 4 foi indicada como a menos promissora do portfólio, enviando a recomend
 
 📬 Contato
 Para dúvidas ou sugestões, entre em contato:
-Nome: [Gabrielly Gomes] Email: [ gabrielly.gomes@ufpi.edu.br ]
-LinkedIn: linkedin.com/in/gabrielly-gomes-ml
+Nome: [Angelica Oliveira Queiroz] Email: [angelicaoliveiraqueiroz@gmail.com]
 
 📌 Projeto desenvolvido com fins analíticos e educacionais.
